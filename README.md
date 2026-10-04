@@ -1,3 +1,4 @@
+<!-- Built and deployed by Tejas Kapoor -->
 # Phishing Email Pattern Detector
 
 A phishing-email detector built from transparent rules. **No machine learning**: each email gets a score from weighted indicators, and a score of 5 or more is flagged as phishing. Pure Python standard library, so there is nothing to install.
@@ -71,3 +72,4 @@ git push -u origin main
 ```
 
 MIT licensed.
+
